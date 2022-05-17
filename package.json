@@ -1,7 +1,7 @@
 {
   "name": "business-card",
   "version": "0.1.0",
-  "homepage": "https://stephenlhc.github.io/business-card",
+  "homepage": "https://stephenlhchan.github.io/business-card",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.0.1",
