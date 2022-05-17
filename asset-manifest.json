@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/business-card/static/js/main.7c809f9d.js",
+    "static/media/profile-picture.png": "/business-card/static/media/profile-picture.1c42b8888aa045ffff57.png",
+    "index.html": "/business-card/index.html",
+    "main.7c809f9d.js.map": "/business-card/static/js/main.7c809f9d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c809f9d.js"
+  ]
+}
